@@ -1,0 +1,53 @@
+h4 {
+  margin-left: 100px;
+  color: red;
+}
+
+.my-button {
+  margin: 6px;
+}
+
+.txt {
+  text-align: center;
+}
+
+.but{
+  float: right;
+}
+
+body {
+  background-color: pink;
+}
+
+.my-class {
+  background-color: violet; 
+  margin-top: 50px;
+  color: white;
+  border-radius: 5px;
+}
+
+.lor {
+  margin-top: 20px;
+}
+
+.btn-light {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.red {
+  background-color: red;
+}
+
+.bl {
+  background-color: blue;
+}
+
+.li {
+  background-color: white;
+  color: red;
+}
+
+.btn-group {
+  margin-bottom: 20px;
+}
